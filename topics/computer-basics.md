@@ -74,4 +74,4 @@
 - The repeated fetching and executing of unambiuous instructions that make up a program.
 - Main purpose of the CPU.
 
-[![Fetch and Execute Cycle Diagram](/images/fetch-and-execute-schematic.jpg)]
+![Fetch and Execute Cycle Diagram](/images/fetch-and-execute-schematic.jpg)
