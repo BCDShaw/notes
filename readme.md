@@ -4,7 +4,7 @@ I am currently an Industrial Construction Electrician who has had a passion for 
 
 I am a 25 year old male living in BC, Canada. I hope to eventually take my electrician experience to get into Electrical Engineering and Embedded Programming. I have some personal projects I am interested in completeing that I hope will come together to create a sufficient protfolio when paired with some good networking. 
 
-This repository is starting as a compilation of my notes on Introductory Java Programming. Uploading this to Github seemed to be a goodway to familiarize myself with Git and Github, as well as getting used to markdown and a bit of HTML. As I continue studying this will ideally evolve into a compilation of all my knowledge on various subjects. 
+This repository is starting as a compilation of my notes on Introductory Java Programming. Uploading this to Github seemed to be a good way to familiarize myself with Git and Github, as well as getting used to markdown and a bit of HTML. As I continue studying this will ideally evolve into a compilation of all my knowledge on various subjects. 
 
 My current interests, and bucketlist topics to study, include:
 - Java
