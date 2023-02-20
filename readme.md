@@ -20,7 +20,7 @@ All sources I retrieve my information from will be compiled at the bottom of thi
 
 ### Computer Basics
 
-- [Fetch and Execute cycle](/topics/computer-basics/fetch-and-execute-cycle.md)
+- [Fetch and Execute Cycle](/topics/computer-basics/fetch-and-execute-cycle.md)
 - [Asynchronous Events: Polling Loops and Interrupts](/topics/computer-basics/asynchronous-events.md)
 
 ### Introduction to Java Programming
