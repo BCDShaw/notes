@@ -7,13 +7,27 @@
 - Responsible for carrying out instructions of a program.
 - Consists of the Arithmetic Logic Unit (ALU), Control Unit, and various registeres (memory caches).
 
+### Arithmetic Logic Unit (ALU)
+
+- Part of the CPU that carries out arithmetic operations such as addition and subtraction.
+
+### Memory Caches (Registers)
+
+- Holds data likely to be used soon, or repeatedly, by the CPU to allow quicker access
+- There are typically 16 or 32 of these registers in a CPU.
+
+### Program Counter
+
+- A special purpose register in the CPU that keeps track of which instrucion is to be executed next in the program by storing its address.
+
+### CPU Cores
+
+- Each core in a CPU allows it to fetch and execute instructions at the same time.
+- Essentially allowing multitasking.
+
 ### Program
 
 - A list of unambiguous instrucions followed by a computer.
-### Machine Language
-
-- A very simple language typically represented in binary, but also in hexadecimal.
-- Programs must be translated to your computer's specific machine language in order to be executed.
 
 ### Random Access or "Main" Memory (RAM)
 
@@ -21,36 +35,10 @@
 - Consists of sequences of locations numbered with addresses.
 - Each location holds a piece of data that the CPU can retrieve, or has space for the CPU to store data inside.
 
-### Fetching
+### Machine Language
 
-- When the CPU receives/reads an instruction stored in memory.
-
-### Executing
-
-- When the CPU carries out the fetched instruction.
-
-### Fetch and Execute Cycle
-
-- The repeated fetching and executing of unambiuous instructions that make up a program.
-- Main purpose of the CPU.
-
-### CPU Cores
-
-- Each core in a CPU allows it to fetch and execute instructions at the same time.
-- Essentially allowing multitasking.
-
-### Memory Caches (Registers)
-
-- Holds data likely to be used soon, or repeatedly, by the CPU to allow quicker access
-- There are typically 16 or 32 of these registers in a CPU.
-
-### Arithmetic Logic Unit (ALU)
-
-- Part of the CPU that carries out arithmetic operations such as addition and subtraction.
-
-### Program Counter
-
-- A special purpose register in the CPU that keeps track of which instrucion is to be executed next in the program by storing its address.
+- A very simple language typically represented in binary, but also in hexadecimal.
+- Programs must be translated to your computer's specific machine language in order to be executed.
 
 ### Transitors
 
@@ -72,3 +60,18 @@
 
 - A sequence of eight bits
 - Each memory location holds one byte of data.
+
+### Fetching
+
+- When the CPU receives/reads an instruction stored in memory.
+
+### Executing
+
+- When the CPU carries out the fetched instruction.
+
+### Fetch and Execute Cycle
+
+- The repeated fetching and executing of unambiuous instructions that make up a program.
+- Main purpose of the CPU.
+
+[![Fetch and Execute Cycle Diagram](/images/fetch-and-execute-schematic.jpg)]
