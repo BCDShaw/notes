@@ -56,3 +56,9 @@ In this case if the value stored inside the variable "principal" is greater than
 - Allows us to break larger projects into manageable chunks.
 - A set of instructions that have been grouped together and given a name. Only the name needs to be referred to in order for these instructions to be carried out. This greatly saves time by avoiding having to write out the same instructions over and over, and reducing the chances of human error.
 - A method for organizing our code.
+
+###### Sources:
+
+Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edition.* Hobart and William Smith Colleges.
+
+Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
