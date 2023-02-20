@@ -75,3 +75,6 @@
 - Main purpose of the CPU.
 
 ![Fetch and Execute Cycle Diagram](/images/fetch-and-execute-schematic.jpg)
+
+###### Sources:
+Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edition.* Hobart and William Smith Colleges.
