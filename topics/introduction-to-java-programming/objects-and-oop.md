@@ -92,3 +92,11 @@ Response: Prints list of all names and addresses.
 - How a subclass maintains some properies of its parent class.
 
 ![Class Hiearchy Diagram](/images/class-hierarchy-diagram.jpg)
+
+###### Sources:
+
+Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edition.* Hobart and William Smith Colleges.
+
+Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
+
+[Previous](/topics/introduction-to-java-programming/fundamental-building-blocks.md) | [Home](/readme.md)

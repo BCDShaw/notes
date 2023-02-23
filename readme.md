@@ -18,6 +18,8 @@ This readme file can be utilised as a table of contents to better access my note
 
 All sources I retrieve my information from will be compiled at the bottom of this file, along with links as to where you can access this information as well.
 
+Disclaimer: I am still working on being able to paraphrase properly and rewrite notes in my own words. As such, and because I find it important in general, I have included all my source material.
+
 ### Computer Basics
 
 - [Fetch and Execute Cycle](/topics/computer-basics/fetch-and-execute-cycle.md)
@@ -27,6 +29,7 @@ All sources I retrieve my information from will be compiled at the bottom of thi
 
 - [Java Virtual Machine](/topics/introduction-to-java-programming/java-virtual-machine.md)
 - [Fundamental Building Blocks of Programs](/topics/introduction-to-java-programming/fundamental-building-blocks.md)
+- [Objects and Object Oriented Programming](/topics/introduction-to-java-programming/objects-and-oop.md)
 
 ###### Sources:
 

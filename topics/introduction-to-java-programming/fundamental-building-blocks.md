@@ -63,4 +63,4 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Previous](/topics/introduction-to-java-programming/java-virtual-machine.md) | [Home](/readme.md)
+[Next](/topics/introduction-to-java-programming/objects-and-oop.md) | [Previous](/topics/introduction-to-java-programming/java-virtual-machine.md) | [Home](/readme.md)
