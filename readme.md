@@ -30,6 +30,7 @@ Disclaimer: I am still working on being able to paraphrase properly and rewrite 
 - [Java Virtual Machine](/topics/introduction-to-java-programming/java-virtual-machine.md)
 - [Fundamental Building Blocks of Programs](/topics/introduction-to-java-programming/fundamental-building-blocks.md)
 - [Objects and Object Oriented Programming](/topics/introduction-to-java-programming/objects-and-oop.md)
+- [The Modern User Interface](/topics/introduction-to-java-programming/modern-ui.md)
 
 ###### Sources:
 
