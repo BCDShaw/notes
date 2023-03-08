@@ -30,6 +30,7 @@ Disclaimer: I am still working on being able to paraphrase properly and rewrite 
 - [Fundamental Building Blocks of Programs](/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md)
 - [Objects and Object Oriented Programming](/topics/introduction-to-java-programming/the-mental-landscape/objects-and-oop.md)
 - [The Modern User Interface](/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md)
+- [The Internet and Beyond](/topics/introduction-to-java-programming/the-mental-landscape/internet-and-beyond.md)
 
 ###### Sources:
 
