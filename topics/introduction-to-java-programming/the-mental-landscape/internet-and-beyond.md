@@ -84,4 +84,6 @@
 
 Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edition.* Hobart and William Smith Colleges.
 
+Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
+
 [Previous](/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md) | [Home](/readme.md)
