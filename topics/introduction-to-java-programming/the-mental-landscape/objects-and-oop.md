@@ -99,4 +99,4 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Next](/topics/introduction-to-java-programming/modern-ui.md) | [Previous](/topics/introduction-to-java-programming/fundamental-building-blocks.md) | [Home](/readme.md)
+[Next](/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md) | [Previous](/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md) | [Home](/readme.md)

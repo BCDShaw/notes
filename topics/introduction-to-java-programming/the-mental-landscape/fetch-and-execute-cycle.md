@@ -82,4 +82,4 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Next](/topics/computer-basics/asynchronous-events.md) | [Home](/readme.md)
+[Next](/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md) | [Home](/readme.md)

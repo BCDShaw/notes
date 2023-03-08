@@ -20,17 +20,16 @@ All sources I retrieve my information from will be compiled at the bottom of thi
 
 Disclaimer: I am still working on being able to paraphrase properly and rewrite notes in my own words. As such, and because I find it important in general, I have included all my source material.
 
-### Computer Basics
+## Introduction to Java Programming
 
-- [Fetch and Execute Cycle](/topics/computer-basics/fetch-and-execute-cycle.md)
-- [Asynchronous Events: Polling Loops and Interrupts](/topics/computer-basics/asynchronous-events.md)
+### The Mental Landscape
 
-### Introduction to Java Programming
-
-- [Java Virtual Machine](/topics/introduction-to-java-programming/java-virtual-machine.md)
-- [Fundamental Building Blocks of Programs](/topics/introduction-to-java-programming/fundamental-building-blocks.md)
-- [Objects and Object Oriented Programming](/topics/introduction-to-java-programming/objects-and-oop.md)
-- [The Modern User Interface](/topics/introduction-to-java-programming/modern-ui.md)
+- [Fetch and Execute Cycle](/topics/introduction-to-java-programming/the-mental-landscape/fetch-and-execute-cycle.md)
+- [Asynchronous Events: Polling Loops and Interrupts](/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md)
+- [Java Virtual Machine](/topics/introduction-to-java-programming/the-mental-landscape/java-virtual-machine.md)
+- [Fundamental Building Blocks of Programs](/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md)
+- [Objects and Object Oriented Programming](/topics/introduction-to-java-programming/the-mental-landscape/objects-and-oop.md)
+- [The Modern User Interface](/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md)
 
 ###### Sources:
 
