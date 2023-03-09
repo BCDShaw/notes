@@ -32,6 +32,10 @@ Disclaimer: I am still working on being able to paraphrase properly and rewrite 
 - [The Modern User Interface](/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md)
 - [The Internet and Beyond](/topics/introduction-to-java-programming/the-mental-landscape/internet-and-beyond.md)
 
+### Programming in the Small I: Names and Things
+
+- [The Basic Java Application](/topics/introduction-to-java-programming/names-and-things/basic-java-app.md)
+
 ###### Sources:
 
 - David J. Eck (2022): [*Introduction to Java Programming Version 9, Java FX Edition.*](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
