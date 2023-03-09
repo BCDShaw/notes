@@ -2,8 +2,6 @@
 
 I am currently an Industrial Construction Electrician who has had a passion for Computer Science and Programming for a very long time, but has unfortunately never had the follow-through to accomplish studying this on a post-secondary level. After accumulating some student debt and seeing it go nowhere, I came to the realization that I am much more suited to studying this at my own pace, and focusing the majority of my time on my career. Since the vast majority of Computer Science related topics are available for free online (such as through free texts, and websites such as edx.org), and since it is not immediately applicable to my career, I saw no reason not to go this route.
 
-I am a 25 year old male living in BC, Canada. I hope to eventually take my electrician experience to get into Electrical Engineering and Embedded Programming. I have some personal projects I am interested in completeing that I hope will come together to create a sufficient protfolio when paired with some good networking. 
-
 This repository is starting as a compilation of my notes on Introductory Java Programming. Uploading this to Github seemed to be a good way to familiarize myself with Git and Github, as well as getting used to markdown and a bit of HTML. As I continue studying this will ideally evolve into a compilation of all my knowledge on various subjects. 
 
 My current interests, and bucketlist topics to study, include:
