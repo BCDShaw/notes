@@ -99,7 +99,6 @@ Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx
 			<th>Data Type</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
 			<td>byte</td>
