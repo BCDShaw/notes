@@ -56,7 +56,7 @@
 
 #### "main()" Subroutine
 
-- This is the subroutine that tells the java interpreer that this class is a program, and allows it to execute the enclosed instructions.
+- This is the subroutine that tells the java interpreter that this class is a program, and allows it to execute the enclosed instructions.
 
 #### "public"
 
@@ -89,3 +89,46 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
 [Previous Section](/topics/introduction-to-java-programming/the-mental-landscape/internet-and-beyond.md) | [Home](/readme.md)
+
+
+<table>
+	<caption>Primitive Types</caption>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Data Type</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>byte</td>
+			<td rowspan = "4">Integer Type</td>
+		</tr>
+		<tr>
+			<td>short</td>
+		</tr>
+		<tr>
+			<td>int</td>
+		</tr>
+		<tr>
+			<td>long</td>
+		</tr>
+		<tr>
+			<td>float</td>
+			<td rowspan = "2">Real Number</td>
+		</tr>
+		<tr>
+			<td>double</td>
+		</tr>
+		<tr>
+			<td>char</td>
+			<td>Single Character</td>
+		</tr>
+		<tr>
+			<td>boolean</td>
+			<td>Logical Values: True or False</td>
+		</tr>
+	</tbody>
+</table>
+

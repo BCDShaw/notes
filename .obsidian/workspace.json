@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -148,8 +148,25 @@
   },
   "active": "391a0575e62e2d73",
   "lastOpenFiles": [
-    "readme.md",
+    "topics/github-notes-guide.md",
+    "images/github-guide/vscode-open-repo.jpg",
+    "images/github-guide/remote-repo.jpg",
+    "images/github-guide/publish-repo.jpg",
+    "images/github-guide/new-folder.jpg",
+    "images/github-guide/new-repo.jpg",
+    "images/github-guide/github-select-repo.jpg",
+    "images/github-guide/add-local-repo.jpg",
+    "images/github-guide/vscode-new-project.jpg",
+    "images/github-guide/vscode-open-folder.jpg",
+    "topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md",
+    "images/fetch-and-execute-schematic.jpg",
+    "images.md",
+    "images/github-guide",
+    "images/New folder",
+    "images/java-intro",
     "topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
-    "topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md"
+    "topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
+    "topics/introduction-to-java-programming/names-and-things/~syncthing~basic-java-app.md.tmp",
+    "readme.md"
   ]
 }
