@@ -11,11 +11,9 @@
             "id": "391a0575e62e2d73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Java Programming/readme.md",
-                "mode": "preview",
-                "source": false
+                "file": "Java Programming/images/branch-example.jpg"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "38f2c7e7a08615cc",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Programming/readme.md",
+                "file": "Java Programming/images/branch-example.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Programming/readme.md",
+                "file": "Java Programming/images/branch-example.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Programming/readme.md"
+                "file": "Java Programming/images/branch-example.jpg"
               }
             }
           }
@@ -147,12 +144,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f44d14c2f0ffed6",
+  "active": "391a0575e62e2d73",
   "lastOpenFiles": [
+    "Java Programming/images/assignment-statement-example.jpg",
+    "Java Programming/readme.md",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/fetch-and-execute-cycle.md",
     "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md",
     "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/java-virtual-machine.md",
     "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md",
-    "Java Programming/images/assignment-statement-example.jpg",
     "Java Programming/topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
     "Java Programming",
     "Untitled 1",
@@ -171,7 +170,6 @@
     "images/New folder",
     "images/java-intro",
     "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
-    "topics/introduction-to-java-programming/names-and-things/~syncthing~basic-java-app.md.tmp",
-    "Java Programming/readme.md"
+    "topics/introduction-to-java-programming/names-and-things/~syncthing~basic-java-app.md.tmp"
   ]
 }
