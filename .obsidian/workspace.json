@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Programming/readme.md",
+                "file": "Electrician/electrical fundamentals/basic principles/fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Programming/readme.md",
+                "file": "Electrician/electrical fundamentals/basic principles/fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Programming/readme.md",
+                "file": "Electrician/electrical fundamentals/basic principles/fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Programming/readme.md"
+                "file": "Electrician/electrical fundamentals/basic principles/fundamentals.md"
               }
             }
           }
@@ -148,15 +148,24 @@
   },
   "active": "391a0575e62e2d73",
   "lastOpenFiles": [
-    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/fetch-and-execute-cycle.md",
+    "Electrician/electrical fundamentals/basic principles/images/attraction.png",
+    "Electrician/electrical fundamentals/basic principles/images/hydrogen-and-copper.jpg",
+    "Electrician/electrical fundamentals/basic principles/images/atomic-theory.jpg",
+    "atomic.md",
+    "Electrician/electrical fundamentals/basic principles/fundamentals.md",
+    "Java Programming/topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
     "Java Programming/readme.md",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md",
+    "Electrician/electrical fundamentals/basic principles/images",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/fetch-and-execute-cycle.md",
+    "Electrician/electrical fundamentals/basic principles",
+    "Electrician/electrical fundamentals",
+    "Electrician",
     "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/objects-and-oop.md",
     "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md",
-    "Java Programming/topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
     "Java Programming/images/branch-example.jpg",
     "Java Programming/images/assignment-statement-example.jpg",
     "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/java-virtual-machine.md",
-    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md",
     "Java Programming",
     "Untitled 1",
     "topics/github-notes-guide.md",
@@ -166,8 +175,6 @@
     "images/github-guide/new-folder.jpg",
     "images/github-guide/new-repo.jpg",
     "images/github-guide/github-select-repo.jpg",
-    "images/github-guide/add-local-repo.jpg",
-    "images/github-guide/vscode-new-project.jpg",
     "images.md",
     "images/github-guide",
     "images/New folder",
