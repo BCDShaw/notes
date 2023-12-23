@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
-                "mode": "source",
+                "file": "Java Programming/readme.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "38f2c7e7a08615cc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
+                "file": "Java Programming/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
+                "file": "Java Programming/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics/introduction-to-java-programming/names-and-things/basic-java-app.md"
+                "file": "Java Programming/readme.md"
               }
             }
           }
@@ -146,8 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "391a0575e62e2d73",
+  "active": "2f44d14c2f0ffed6",
   "lastOpenFiles": [
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/java-virtual-machine.md",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md",
+    "Java Programming/images/assignment-statement-example.jpg",
+    "Java Programming/topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
+    "Java Programming",
+    "Untitled 1",
     "topics/github-notes-guide.md",
     "images/github-guide/vscode-open-repo.jpg",
     "images/github-guide/remote-repo.jpg",
@@ -158,15 +166,12 @@
     "images/github-guide/add-local-repo.jpg",
     "images/github-guide/vscode-new-project.jpg",
     "images/github-guide/vscode-open-folder.jpg",
-    "topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md",
-    "images/fetch-and-execute-schematic.jpg",
     "images.md",
     "images/github-guide",
     "images/New folder",
     "images/java-intro",
-    "topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
-    "topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
     "topics/introduction-to-java-programming/names-and-things/~syncthing~basic-java-app.md.tmp",
-    "readme.md"
+    "Java Programming/readme.md"
   ]
 }

@@ -18,7 +18,7 @@
 - Java can use all standard components across most platforms.
 - There are three complete sets of GUI components for Java.
 
-![Examples of GUI Components](/images/gui-components.jpg)
+![Examples of GUI Components](gui-components.jpg)
 
 #### Abstract Windowing Toolkit (AWT)
 
@@ -56,5 +56,5 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Next](/topics/introduction-to-java-programming/the-mental-landscape/internet-and-beyond.md) | [Previous](/topics/introduction-to-java-programming/the-mental-landscape/objects-and-oop.md) | [Home](/readme.md)
+[Next](internet-and-beyond.md) | [Previous](objects-and-oop.md) | [Home](readme.md)
 

@@ -22,7 +22,7 @@
 
 ##### Example:
 
-![Example of an Assignment Statement](/images/assignment-statement-example.jpg)
+![Example of an Assignment Statement](assignment-statement-example.jpg)
 
 This multiples the value stored inside the variable "principal" by 0.7, then stores the resulting value inside the variable "interest".
 
@@ -47,7 +47,7 @@ This multiples the value stored inside the variable "principal" by 0.7, then sto
 
 ##### Example:
 
-![Example of a Branch Control Structure](/images/branch-example.jpg)
+![Example of a Branch Control Structure](branch-example.jpg)
 
 In this case if the value stored inside the variable "principal" is greater than 10000, "principal" will be multiplied by 0.5 and stored inside variable "interest". Otherwise, "principal" will be multiplied by 0.4 and stored inside variable "interest".
 
@@ -63,4 +63,4 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Next](/topics/introduction-to-java-programming/the-mental-landscape/objects-and-oop.md) | [Previous](/topics/introduction-to-java-programming/the-mental-landscape/java-virtual-machine.md) | [Home](/readme.md)
+[Next](objects-and-oop.md) | [Previous](java-virtual-machine.md) | [Home](readme.md)

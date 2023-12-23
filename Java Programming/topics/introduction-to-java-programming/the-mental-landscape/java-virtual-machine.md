@@ -32,7 +32,7 @@
 2. Bytecode is then interpreted by your computer's specific Bytecode interpreter.
 3. As the program is interpreted it is emulated in the JVM.
 
-![JVM Interpretation Diagram](/images/jvm-interpreter-diagram.jpg)
+![JVM Interpretation Diagram](jvm-interpreter-diagram.jpg)
 
 #### Advantages of JVM
 
@@ -52,4 +52,4 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Next](/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md) | [Previous](/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md) | [Home](/readme.md)
+[Next](fundamental-building-blocks.md) | [Previous](asynchronous-events.md) | [Home](readme.md)

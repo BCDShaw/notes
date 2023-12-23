@@ -22,17 +22,17 @@ Disclaimer: I am still working on being able to paraphrase properly and rewrite 
 
 ### The Mental Landscape
 
-- [Fetch and Execute Cycle](/topics/introduction-to-java-programming/the-mental-landscape/fetch-and-execute-cycle.md)
-- [Asynchronous Events: Polling Loops and Interrupts](/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md)
-- [Java Virtual Machine](/topics/introduction-to-java-programming/the-mental-landscape/java-virtual-machine.md)
-- [Fundamental Building Blocks of Programs](/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md)
-- [Objects and Object Oriented Programming](/topics/introduction-to-java-programming/the-mental-landscape/objects-and-oop.md)
-- [The Modern User Interface](/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md)
-- [The Internet and Beyond](/topics/introduction-to-java-programming/the-mental-landscape/internet-and-beyond.md)
+- [Fetch and Execute Cycle](fetch-and-execute-cycle.md)
+- [Asynchronous Events: Polling Loops and Interrupts](asynchronous-events.md)
+- [Java Virtual Machine](java-virtual-machine.md)
+- [Fundamental Building Blocks of Programs](fundamental-building-blocks.md)
+- [Objects and Object Oriented Programming](objects-and-oop.md)
+- [The Modern User Interface](modern-ui.md)
+- [The Internet and Beyond](internet-and-beyond.md)
 
 ### Programming in the Small I: Names and Things
 
-- [The Basic Java Application](/topics/introduction-to-java-programming/names-and-things/basic-java-app.md)
+- [The Basic Java Application](basic-java-app.md)
 
 ###### Sources:
 

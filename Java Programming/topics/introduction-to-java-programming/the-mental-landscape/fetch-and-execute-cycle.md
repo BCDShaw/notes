@@ -74,7 +74,7 @@
 - The repeated fetching and executing of unambiuous instructions that make up a program.
 - Main purpose of the CPU.
 
-![Fetch and Execute Cycle Diagram](/images/fetch-and-execute-schematic.jpg)
+![Fetch and Execute Cycle Diagram](fetch-and-execute-schematic.jpg)
 
 ###### Sources:
 
@@ -82,4 +82,4 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Next](/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md) | [Home](/readme.md)
+[Next](asynchronous-events.md) | [Home](readme.md)

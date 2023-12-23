@@ -32,7 +32,7 @@
 
 ### "Hello World" Java Program
 
-![Java Program Example](/images/hello-world.jpg)
+![Java Program Example](hello-world.jpg)
 
 #### Subroutine Call Statements
 
@@ -88,5 +88,5 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Previous Section](/topics/introduction-to-java-programming/the-mental-landscape/internet-and-beyond.md) | [Home](/readme.md)
+[Previous Section](internet-and-beyond.md) | [Home](readme.md)
 

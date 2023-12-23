@@ -43,7 +43,7 @@
 
 ### Diagram of Interaction Between Computer, Devices, and Busses
 
-![Simple Computer System Diagram](/images/simple-computer-system.jpg)
+![Simple Computer System Diagram](simple-computer-system.jpg)
 
 ### Polling
 
@@ -114,4 +114,4 @@ Eck, D. J. (2022). *Introduction to Programming Using Java Version 9, JavaFX Edi
 
 Available [here](https://math.hws.edu/javanotes/?fbclid=IwAR3V0pxqmqNeSpasvbbVrx-RAylNmYW7yYnD2q8-1nJMHErQxynK27MNOhw)
 
-[Next](/topics/introduction-to-java-programming/the-mental-landscape/java-virtual-machine.md) | [Previous](/topics/introduction-to-java-programming/the-mental-landscape/fetch-and-execute-cycle.md) | [Home](/readme.md)
+[Next](java-virtual-machine.md) | [Previous](fetch-and-execute-cycle.md) | [Home](readme.md)
