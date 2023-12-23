@@ -22,7 +22,7 @@ Disclaimer: I am still working on being able to paraphrase properly and rewrite 
 
 ### The Mental Landscape
 
-- [Fetch and Execute Cycle](fetch-and-execute-cycle.md)
+- [Fetch and Execute Cycle](topics/introduction-to-java-programming/the-mental-landscape/fetch-and-execute-cycle.md)
 - [Asynchronous Events: Polling Loops and Interrupts](asynchronous-events.md)
 - [Java Virtual Machine](java-virtual-machine.md)
 - [Fundamental Building Blocks of Programs](fundamental-building-blocks.md)
