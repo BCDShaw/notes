@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Programming/readme.md",
+                "file": "Electrician/electrical fundamentals/basic principles/fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Java Programming/readme.md",
+            "file": "Electrician/electrical fundamentals/basic principles/fundamentals.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Java Programming/readme.md",
+            "file": "Electrician/electrical fundamentals/basic principles/fundamentals.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Java Programming/readme.md"
+            "file": "Electrician/electrical fundamentals/basic principles/fundamentals.md"
           }
         }
       }
@@ -133,6 +133,8 @@
   },
   "active": "d25d0d8090832610",
   "lastOpenFiles": [
+    "readme.md",
+    "Java Programming/readme.md",
     "topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
     "topics/introduction-to-java-programming/the-mental-landscape/internet-and-beyond.md",
     "topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
@@ -146,7 +148,6 @@
     "images/github-guide/vscode-open-folder.jpg",
     "images/github-guide/vscode-new-project.jpg",
     "images/github-guide/add-local-repo.jpg",
-    "images/github-guide",
-    "readme.md"
+    "images/github-guide"
   ]
 }
