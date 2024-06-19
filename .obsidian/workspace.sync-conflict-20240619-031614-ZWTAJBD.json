@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "9f41607e53ef6bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c234ce394782ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "391a0575e62e2d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20d2d92fa45f2164",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1386f81f3918527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f44d14c2f0ffed6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b8db8f6a511e066",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42799aa3c3aa9493",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c638afb559fe8d9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "38f2c7e7a08615cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c36d4bde8616308a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a178f349f8772606",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eef9c19733dc5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4de34e6f806f0a16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47e417f068263742",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "391a0575e62e2d73",
+  "lastOpenFiles": [
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/objects-and-oop.md",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/fundamental-building-blocks.md",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/fetch-and-execute-cycle.md",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/asynchronous-events.md",
+    "Java Programming/topics/introduction-to-java-programming/names-and-things/basic-java-app.md",
+    "Java Programming/images/class-hierarchy-diagram.jpg",
+    "Java Programming/images/branch-example.jpg",
+    "Java Programming/images/assignment-statement-example.jpg",
+    "Electrician/electrical fundamentals/basic principles/fundamentals.md",
+    "Electrician/electrical fundamentals/basic principles/images/attraction.png",
+    "Electrician/electrical fundamentals/basic principles/images/hydrogen-and-copper.jpg",
+    "Electrician/electrical fundamentals/basic principles/images/atomic-theory.jpg",
+    "atomic.md",
+    "readme.md",
+    "Electrician/electrical fundamentals/basic principles/images",
+    "Electrician/electrical fundamentals/basic principles",
+    "Electrician/electrical fundamentals",
+    "Electrician",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/java-virtual-machine.md",
+    "Java Programming",
+    "Untitled 1",
+    "topics/github-notes-guide.md",
+    "images/github-guide/vscode-open-repo.jpg",
+    "images/github-guide/remote-repo.jpg",
+    "images/github-guide/publish-repo.jpg",
+    "images/github-guide/new-folder.jpg",
+    "images.md",
+    "images/github-guide",
+    "images/New folder",
+    "images/java-intro",
+    "Java Programming/topics/introduction-to-java-programming/the-mental-landscape/modern-ui.md",
+    "topics/introduction-to-java-programming/names-and-things/~syncthing~basic-java-app.md.tmp"
+  ]
+}
